@@ -1,0 +1,29 @@
+{
+  "name": "pokemon-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yam ebgui",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "pokedex-promise-v2": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamEbgui/Pokemon-Page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YamEbgui/Pokemon-Page/issues"
+  },
+  "homepage": "https://github.com/YamEbgui/Pokemon-Page#readme",
+  "description": ""
+}
